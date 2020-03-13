@@ -1,0 +1,23 @@
+#title {background-color: #ff4c68; color:white;}
+h1{font-family:"Montserrat-Black"; font-size: 3rem; font-weight:bold; line-height: 1.5}
+.container-fluid{ padding: 3% 15%} /* addition to bootstrap or overrides bootstrap*/
+  body {font-family:"Montserrat"; }
+h3 {font-family: "Montserrat-Bold"; font-size: 1.5rem;}
+  /* navigation bar  ctrl-/ to commment highlighted section*/
+  nav, .navbar-brand {font-family: "Ubuntu"; font-size: 2rem; text-shadow: 2px 4px #FF0000}
+  .navbar {margin-bottom: 2.5rem;}
+.icon {color: #ef8172; margin-bottom: 1rem;}
+.icon:hover{color: #ef6600;}
+
+.title-image{
+  rotate:20deg;
+  padding-top:1rem;
+  width:70%;
+}
+.feature-box{margin: 0 auto 0 auto; padding: 10px 10px 10px 10px; text-align: center;
+}
+#testimonials {text-align: center; padding:7% 15% ; background-color: #cf8172; color: #fff;}
+.test-img{
+  width: 10%;
+   border-radius: 100%;
+}
